@@ -98,5 +98,9 @@ git clone https://github.com/your-username/kdmc-drainage-noc-system.git
 # Setup database
 Import SQL file into MySQL
 
+# DB Name
+singlewindowsyst_kdmc_drainage
+
 # Run project on local server
+
 ```
